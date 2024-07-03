@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A package to offer logical, common, operator, functions",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "test": "jest"
   },
